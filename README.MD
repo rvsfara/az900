@@ -12,13 +12,14 @@ serviços podem ser classificados em:
 7. Integration (Integrações)
 8. Security (Segurança)
 
-### Alta disponibilidade
-
+## Suas principais caracteristicas são:
+<details>
+    <summary>Alta disponibilidade (Clique para expandir)</summary>
 Quando um aplicativo, serviço ou qualquer recurso de TI é implantado, eles devem estar disponíveis quando necessário.
 A alta disponibilidade se concentra em garantir a disponibilidade máxima, independentemente de interrupções ou eventos que possam ocorrer.
-
-### Escalabilidade
-
+</details>
+<details>
+    <summary>Escalabilidade (Clique para expandir)</summary>
 Outro grande benefício da computação em nuvem é a escalabilidade dos recursos de nuvem. A escalabilidade refere-se à capacidade de ajustar recursos
 para atender à demanda. Se experimentarmos um pico repentino de tráfego e seus sistemas ficarem sobrecarregados, a capacidade de escalar significa
 que poderá adicionar mais recursos para lidar melhor com o aumento da demanda.
@@ -28,24 +29,27 @@ A escala geralmente vem em duas variedades: vertical e horizontal.
 
 1. A escala vertical se concentra em aumentar ou diminuir a capacidade dos recursos.
 2. A escala horizontal é adição ou subtração do número de recursos.
-
-#### Dimensionamento vertical
+</details>
+<details>
+    <summary>Dimensionamento vertical (Clique para expandir)</summary>
 Com a escala vertical, se um aplicativo precisasse de mais capacidade de processamento, poderia escalar verticalmente, com a alocação de mais CPUs ou
 RAM à máquina virtual. Por outro lado, se percebesse que superestimou as necessidades, poderia reduzir verticalmente, diminuindo as especificações
 de CPU ou RAM.
-#### Dimensionamento horizontal
+</details>
+<details>
+    <summary>Dimensionamento horizontal (Clique para expandir)</summary>
 Com a escala horizontal, se você experimentasse um salto repentino acentuado na demanda, seus recursos implantados poderiam ser expandidos
 (automaticamente ou manualmente). Por exemplo, você pode adicionar máquinas virtuais ou contêineres por meio da expansão. Da mesma forma, se houver
 uma queda significativa na demanda, os recursos implantados poderão ser reduzidos horizontalmente (de maneira automática ou manual).
-
-### Confiabilidade
-
+</details>
+<details>
+    <summary>Confiabilidade (Clique para expandir)</summary>
 Resiliência é a capacidade que um sistema tem de se recuperar de falhas e continuar funcionando. Devido ao design descentralizado, a nuvem naturalmente
 dá suporte a uma infraestrutura confiável e resiliente. Com um design descentralizado, a nuvem permite que você tenha recursos implantados em várias
 regiões do mundo. Com essa escala global, mesmo que ocorra um evento catastrófico em uma região, as outras regiões ainda estarão em funcionamento.
 Você pode criar aplicativos para aproveitar automaticamente essa confiabilidade maior. Em alguns casos, o próprio ambiente de nuvem mudará
 automaticamente para uma região diferente, sem que você precise realizar nenhuma ação.
-
+</details>
 ### Previsibilidade
 
 A previsibilidade na nuvem permite que você avance com confiança. A previsibilidade pode se concentrar na previsibilidade de desempenho ou na
@@ -87,4 +91,4 @@ ataques de DDoS (negação de serviço distribuído), tornando sua rede mais rob
 2. Usando uma interface de linha de comando.
 3. Usando APIs.
 4. Usando o PowerShell.
-
+## [IaaS, PaaS, SaaS [Neste mesmo curso]](iaas_paas_saas.md)

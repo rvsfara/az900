@@ -19,3 +19,6 @@ Referentes aos seguintes cargos técnicos:
 7. Engenharia DevOps
 8. Engenharia de Segurança
 9. Arquitetura de soluções
+
+
+![Certificações Microsoft Azure](certs.png)

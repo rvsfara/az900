@@ -50,25 +50,28 @@ regiões do mundo. Com essa escala global, mesmo que ocorra um evento catastróf
 Você pode criar aplicativos para aproveitar automaticamente essa confiabilidade maior. Em alguns casos, o próprio ambiente de nuvem mudará
 automaticamente para uma região diferente, sem que você precise realizar nenhuma ação.
 </details>
-### Previsibilidade
-
+<details>
+    <summary>Previsibilidade (Clique para expandir)</summary>
 A previsibilidade na nuvem permite que você avance com confiança. A previsibilidade pode se concentrar na previsibilidade de desempenho ou na
 previsibilidade de custo.
-
-#### Desempenho
+</details>
+<details>
+    <summary>Desempenho (Clique para expandir)</summary>
 A previsibilidade de desempenho se concentra em prever os recursos necessários para oferecer uma experiência positiva aos clientes. O dimensionamento
 automático, o balanceamento de carga e a alta disponibilidade são apenas alguns dos conceitos de nuvem que dão suporte à previsibilidade de desempenho.
 Se de repente você precisar de mais recursos, o dimensionamento automático poderá implantar recursos adicionais para atender à demanda e depois reduzir
 a implantação quando a demanda cair. Ou se o tráfego estiver bem concentrado em uma área, o balanceamento de carga ajudará a redirecionar parte da
 sobrecarga para áreas menos sobrecarregadas.
-
-#### Custo
+</details>
+<details>
+    <summary>Custo (Clique para expandir)</summary>
 A previsibilidade de custos se concentra em prever o custo dos gastos com a nuvem. Ela permite acompanhar o uso de recursos em tempo real,
 monitorar os recursos para garantir a maior eficiência de uso possível e aplicar a análise de dados para encontrar padrões e tendências que ajudam a
 planejar melhor as implantações de recursos. Operando na nuvem e usando a análise e as informações da nuvem, é possível prever custos futuros e
 ajustar os recursos conforme o necessário.
-
-### Segurança, Governança e Conformidade
+</details>
+<details>
+    <summary>Segurança, Governança e Conformidade (Clique para expandir)</summary>
 Modelos de conjunto ajudam a garantir que todos os seus recursos implantados atendam aos padrões corporativos e aos requisitos regulatórios
 governamentais. Além disso, é possível atualizar todos os seus recursos implantados com novos padrões à medida que os padrões são alterados.
 A auditoria baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com seus padrões corporativos e fornece estratégias
@@ -80,15 +83,19 @@ incluindo aplicação de patches e manutenção. Se você quiser que a aplicaç�
 de plataforma como serviço ou software como serviço podem ser as melhores estratégias de nuvem para você.
 E como a nuvem se destina a uma entrega de recursos de TI via Internet, os provedores de nuvem normalmente são adequados para lidar com situações como
 ataques de DDoS (negação de serviço distribuído), tornando sua rede mais robusta e segura.
-
-#### Gerenciamento da nuvem
+</details>
+<details>
+    <summary>Gerenciamento da nuvem (Clique para expandir)</summary>
 1. Escalar automaticamente a implantação de recursos com base na necessidade.
 2. Implantar recursos com base em um modelo pré-configurado, removendo a necessidade de configuração manual.
 3. Monitorar a integridade dos recursos e substituir automaticamente os recursos com falha.
 4. Receber alertas automáticos com base em métricas configuradas, de modo a ficar ciente do desempenho em tempo real.
-#### Gerenciamento na nuvem
+</details>
+<details>
+    <summary>Gerenciamento na nuvem (Clique para expandir)</summary>
 1. Por meio de um portal da Web.
 2. Usando uma interface de linha de comando.
 3. Usando APIs.
 4. Usando o PowerShell.
+</details>
 ## [IaaS, PaaS, SaaS [Neste mesmo curso]](iaas_paas_saas.md)

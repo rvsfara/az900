@@ -20,7 +20,25 @@
 
 ![MachineLearning](img/09machine_learning.png)
 
+![IoT](img/10iot.png)
 
+![Integração](img/11integracao.png)
+
+![Indentity](img/12identity.png)
+
+![Security](img/13security.png)
+
+![devops](img/14devops.png)
+
+![Migration](img/15migration.png)
+
+![Monitor](img/16monitor.png)
+
+![ManagementGovernance](img/17management_governance.png)
+
+![Hybrid](img/18hybrid.png)
+
+![modelosnuvem](img/iaaspaassaas.svg)
 
 
 

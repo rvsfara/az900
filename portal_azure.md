@@ -6,11 +6,11 @@
 
 ![Compute](img/03compute.png)
 
-![Networking](img/03networking)
+![Networking](img/03networking.png)
 
 ![Storage](img/04storage.png)
 
-![Web](05web.png)
+![Web](img/05web.png)
 
 ![Containers](img/06containers.png)
 

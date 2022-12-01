@@ -18,6 +18,7 @@ serviços podem ser classificados em:
 Quando um aplicativo, serviço ou qualquer recurso de TI é implantado, eles devem estar disponíveis quando necessário.
 A alta disponibilidade se concentra em garantir a disponibilidade máxima, independentemente de interrupções ou eventos que possam ocorrer.
 </details>
+
 <details>
     <summary>Escalabilidade (Clique para expandir)</summary>
 Outro grande benefício da computação em nuvem é a escalabilidade dos recursos de nuvem. A escalabilidade refere-se à capacidade de ajustar recursos
@@ -30,18 +31,21 @@ A escala geralmente vem em duas variedades: vertical e horizontal.
 1. A escala vertical se concentra em aumentar ou diminuir a capacidade dos recursos.
 2. A escala horizontal é adição ou subtração do número de recursos.
 </details>
+
 <details>
     <summary>Dimensionamento vertical (Clique para expandir)</summary>
 Com a escala vertical, se um aplicativo precisasse de mais capacidade de processamento, poderia escalar verticalmente, com a alocação de mais CPUs ou
 RAM à máquina virtual. Por outro lado, se percebesse que superestimou as necessidades, poderia reduzir verticalmente, diminuindo as especificações
 de CPU ou RAM.
 </details>
+
 <details>
     <summary>Dimensionamento horizontal (Clique para expandir)</summary>
 Com a escala horizontal, se você experimentasse um salto repentino acentuado na demanda, seus recursos implantados poderiam ser expandidos
 (automaticamente ou manualmente). Por exemplo, você pode adicionar máquinas virtuais ou contêineres por meio da expansão. Da mesma forma, se houver
 uma queda significativa na demanda, os recursos implantados poderão ser reduzidos horizontalmente (de maneira automática ou manual).
 </details>
+
 <details>
     <summary>Confiabilidade (Clique para expandir)</summary>
 Resiliência é a capacidade que um sistema tem de se recuperar de falhas e continuar funcionando. Devido ao design descentralizado, a nuvem naturalmente
@@ -50,11 +54,13 @@ regiões do mundo. Com essa escala global, mesmo que ocorra um evento catastróf
 Você pode criar aplicativos para aproveitar automaticamente essa confiabilidade maior. Em alguns casos, o próprio ambiente de nuvem mudará
 automaticamente para uma região diferente, sem que você precise realizar nenhuma ação.
 </details>
+
 <details>
     <summary>Previsibilidade (Clique para expandir)</summary>
 A previsibilidade na nuvem permite que você avance com confiança. A previsibilidade pode se concentrar na previsibilidade de desempenho ou na
 previsibilidade de custo.
 </details>
+
 <details>
     <summary>Desempenho (Clique para expandir)</summary>
 A previsibilidade de desempenho se concentra em prever os recursos necessários para oferecer uma experiência positiva aos clientes. O dimensionamento
@@ -63,6 +69,7 @@ Se de repente você precisar de mais recursos, o dimensionamento automático pod
 a implantação quando a demanda cair. Ou se o tráfego estiver bem concentrado em uma área, o balanceamento de carga ajudará a redirecionar parte da
 sobrecarga para áreas menos sobrecarregadas.
 </details>
+
 <details>
     <summary>Custo (Clique para expandir)</summary>
 A previsibilidade de custos se concentra em prever o custo dos gastos com a nuvem. Ela permite acompanhar o uso de recursos em tempo real,
@@ -70,6 +77,7 @@ monitorar os recursos para garantir a maior eficiência de uso possível e aplic
 planejar melhor as implantações de recursos. Operando na nuvem e usando a análise e as informações da nuvem, é possível prever custos futuros e
 ajustar os recursos conforme o necessário.
 </details>
+
 <details>
     <summary>Segurança, Governança e Conformidade (Clique para expandir)</summary>
 Modelos de conjunto ajudam a garantir que todos os seus recursos implantados atendam aos padrões corporativos e aos requisitos regulatórios
@@ -84,6 +92,7 @@ de plataforma como serviço ou software como serviço podem ser as melhores estr
 E como a nuvem se destina a uma entrega de recursos de TI via Internet, os provedores de nuvem normalmente são adequados para lidar com situações como
 ataques de DDoS (negação de serviço distribuído), tornando sua rede mais robusta e segura.
 </details>
+
 <details>
     <summary>Gerenciamento da nuvem (Clique para expandir)</summary>
 1. Escalar automaticamente a implantação de recursos com base na necessidade.
@@ -91,6 +100,7 @@ ataques de DDoS (negação de serviço distribuído), tornando sua rede mais rob
 3. Monitorar a integridade dos recursos e substituir automaticamente os recursos com falha.
 4. Receber alertas automáticos com base em métricas configuradas, de modo a ficar ciente do desempenho em tempo real.
 </details>
+
 <details>
     <summary>Gerenciamento na nuvem (Clique para expandir)</summary>
 1. Por meio de um portal da Web.
@@ -99,3 +109,13 @@ ataques de DDoS (negação de serviço distribuído), tornando sua rede mais rob
 4. Usando o PowerShell.
 </details>
 ## [IaaS, PaaS, SaaS [Neste mesmo curso]](iaas_paas_saas.md)
+
+## Principais Caracteristicas
+Panorama Geral dos Serviços do Azure:
+![AzureServices](azure/azure_services.png)
+
+## [Certificações Disponíveis [Neste mesmo curso]](certificacoes/README.md)
+
+
+
+

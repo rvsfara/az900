@@ -109,7 +109,7 @@ ataques de DDoS (negação de serviço distribuído), tornando sua rede mais rob
 4. Usando o PowerShell.
 </details>
 
-## [Principais Caracteristicas do Azure](azure/README.md)
+## [Principais Caracteristicas do Azure[Neste mesmo curso]](azure/README.md)
 Panorama Geral dos Serviços do Azure:
 ![AzureServices](azure/azure_services.png)
 ## [IaaS, PaaS, SaaS [Neste mesmo curso]](iaas_paas_saas.md)

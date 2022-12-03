@@ -24,16 +24,24 @@ Machine Learning (Aprendizagem de Máquina)
 ![machine](10machine_learning.png)
 IoT - Internet of Things (Internet das Coisas)
 ![iot](11iot.png)
-
-
-
-
-
-
-
-
-
-
-
+Integração
+![integracao](12integracao.png)
+Identidade
+![identity](13identity.png)
+Segurança
+![security](14security.png)
+DevOps
+![devops](15devops.png)
+Migração
+![migration](16migration.png)
+Monitoramento
+![monitor](17monitor.png)
+Governança
+![governance](18management_governance.png)
+Híbrida
+![hybrid](19hybrid.png)
+Tipos de Nuvem
+IaaS, PaaS, SaaS
+![iaas](iaaspaassaas.svg)
 
 ### [Voltar [Neste mesmo curso]](../README.MD)

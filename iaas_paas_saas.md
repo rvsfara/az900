@@ -22,5 +22,7 @@ Ele requer a menor quantidade de conhecimento técnico ou experiência para o em
 Em um ambiente de SaaS, o usuário é responsável pelos dados que coloca no sistema, pelos dispositivos que permite que se conectem ao sistema e pelos
 usuários que têm acesso. Quase todo o resto é responsabilidade do provedor de nuvem. O provedor de nuvem é responsável pela segurança física dos
 datacenters, pela energia, pela conectividade de rede e pelo desenvolvimento e aplicação de patch dos aplicativos.
+IaaS, PaaS, SaaS
+![iaas](img/iaaspaassaas.svg)
 
 ### [Voltar [Neste mesmo curso]](README.MD)

@@ -113,6 +113,7 @@ ataques de DDoS (negação de serviço distribuído), tornando sua rede mais rob
 Panorama Geral dos Serviços do Azure:
 ![AzureServices](azure/azure_services.png)
 ## [IaaS, PaaS, SaaS [Neste mesmo curso]](iaas_paas_saas.md)
+## [Portal do Azure [Neste mesmo curso]](img/README.md)
 ## [Certificações Disponíveis [Neste mesmo curso]](certificacoes/README.md)
 
 

@@ -83,6 +83,7 @@ de dados e de aplicativos.
 9. Banco de Dados do Azure para MariaDB: Banco de dados relacional MariaDB totalmente gerenciado e escalonável, com alta
 disponibilidade e segurança.
 </details>
+
 <details>
     <summary>Web (Clique para expandir)</summary>
 
@@ -93,6 +94,16 @@ O Azure inclui suporte para criar e hospedar aplicativos Web e serviços Web bas
 4. Azure Cognitive Search: Implante esta pesquisa totalmente gerenciada como serviço.
 5. Recurso de Aplicativos Web do Serviço de Aplicativo do Azure: Crie e implante aplicativos Web críticos em escala.
 6. Serviço Azure SignalR: Adicione funcionalidades da Web em tempo real com facilidade.
+</details>
+
+<details>
+    <summary>IoT (Clique para expandir)</summary>
+
+Muitos dispositivos conectados nos auxiliam em nosso dia a dia como termostatos inteligentes, refrigeradores inteligentes, luzes, controles de ambiente. Agora, a Internet permite que qualquer item que tenha funcionalidade online acesse informações valiosas. Essa capacidade dos dispositivos de coletar e depois retransmitir informações para análise de dados é conhecida como IoT.
+Muitos serviços podem ajudar a criar e impulsionar soluções de ponta a ponta para a IoT no Azure: 
+1. IoT Central: Solução SaaS (software como serviço) de IoT global totalmente gerenciada que torna fácil conectar, monitorar e gerenciar os ativos de IoT em escala.
+2. Hub IoT do Azure: Hub de mensagens que fornece comunicações seguras e monitoramento entre milhões de dispositivos IoT.
+3. IoT Edge: Serviço totalmente gerenciado que permite que os modelos de análise de dados sejam enviados por push diretamente aos dispositivos de IoT, possibilitando que esses dispositivos reajam rapidamente a alterações de estado sem a necessidade de consultar modelos de IA baseados em nuvem.
 </details>
 
 ### [Voltar [Neste mesmo curso]](../README.MD)

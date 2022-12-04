@@ -106,4 +106,13 @@ Muitos serviços podem ajudar a criar e impulsionar soluções de ponta a ponta 
 3. IoT Edge: Serviço totalmente gerenciado que permite que os modelos de análise de dados sejam enviados por push diretamente aos dispositivos de IoT, possibilitando que esses dispositivos reajam rapidamente a alterações de estado sem a necessidade de consultar modelos de IA baseados em nuvem.
 </details>
 
+<details>
+    <summary>Big Data (Clique para expandir)</summary>
+
+Os dados vêm em todos os formatos e tamanhos. Quando falamos em Big Data, estamos nos referindo a grandes volumes de dados. Dados de sistemas de clima, sistemas de comunicação, pesquisa genômica, plataformas de geração de imagens e muitos outros cenários produzem centenas de gigabytes de dados. Essa quantidade de dados torna difícil analisar e tomar decisões. O volume geralmente é tão grande que formas tradicionais de processamento e análise não são mais apropriadas.
+Tecnologias de cluster de software livre foram desenvolvidas para lidar com esses grandes conjuntos de dados. O Azure é compatível com uma ampla variedade de tecnologias e serviços para fornecer soluções de análises e Big Data.: 
+1. Azure Synapse Analytics: Execute a análise em grande escala usando um data warehouse empresarial baseado em nuvem que aproveita o processamento paralelo massivo para executar consultas complexas rapidamente sobre petabytes de dados.
+2. Azure HDInsight: Processe grandes quantidades de dados com clusters gerenciados de clusters Hadoop na nuvem.
+3. Azure Databricks: Integre esse serviço de análise colaborativa com base no Apache Spark com outros serviços de Big Data do Azure.
+</details>
 ### [Voltar [Neste mesmo curso]](../README.MD)

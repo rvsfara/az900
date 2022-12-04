@@ -83,5 +83,16 @@ de dados e de aplicativos.
 9. Banco de Dados do Azure para MariaDB: Banco de dados relacional MariaDB totalmente gerenciado e escalonável, com alta
 disponibilidade e segurança.
 </details>
+<details>
+    <summary>Web (Clique para expandir)</summary>
+
+O Azure inclui suporte para criar e hospedar aplicativos Web e serviços Web baseados em HTTP. Os serviços do Azure a seguir são voltados para a hospedagem na Web:
+1. Serviço de Aplicativo do Azure: Crie rapidamente poderosos aplicativos de nuvem baseados na Web.
+2. Hubs de Notificação do Azure: Envie notificações por push para qualquer plataforma de qualquer back-end.
+3. Gerenciamento de API do Azure: Publique APIs para desenvolvedores, parceiros e funcionários de maneira segura e em escala.
+4. Azure Cognitive Search: Implante esta pesquisa totalmente gerenciada como serviço.
+5. Recurso de Aplicativos Web do Serviço de Aplicativo do Azure: Crie e implante aplicativos Web críticos em escala.
+6. Serviço Azure SignalR: Adicione funcionalidades da Web em tempo real com facilidade.
+</details>
 
 ### [Voltar [Neste mesmo curso]](../README.MD)

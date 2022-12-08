@@ -94,7 +94,7 @@ ataques de DDoS (negação de serviço distribuído), tornando sua rede mais rob
 </details>
 
 <details>
-    <summary>Gerenciamento **da** nuvem (Clique para expandir)</summary>
+    <summary>Gerenciamento da nuvem (Clique para expandir)</summary>
 1. Escalar automaticamente a implantação de recursos com base na necessidade.
 2. Implantar recursos com base em um modelo pré-configurado, removendo a necessidade de configuração manual.
 3. Monitorar a integridade dos recursos e substituir automaticamente os recursos com falha.
@@ -102,7 +102,7 @@ ataques de DDoS (negação de serviço distribuído), tornando sua rede mais rob
 </details>
 
 <details>
-    <summary>Gerenciamento **na** nuvem (Clique para expandir)</summary>
+    <summary>Gerenciamento na nuvem (Clique para expandir)</summary>
 1. Por meio de um portal da Web.
 2. Usando uma interface de linha de comando.
 3. Usando APIs.

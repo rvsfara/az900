@@ -138,4 +138,5 @@ O DevOps reúne pessoas, processos e tecnologias, automatizando a entrega de sof
 1. Azure DevOps: Use ferramentas de colaboração de desenvolvimento, tais como pipelines de alto desempenho, repositórios Git privados gratuitos, quadros Kanban configuráveis e amplos testes de carga baseados em nuvem automatizados. Anteriormente conhecido como Visual Studio Team Services.
 2. Azure DevTest Labs: Crie rapidamente ambientes Windows e Linux sob demanda para testar ou demonstrar aplicativos diretamente dos pipelines de implantação.
 </details>
+
 ### [Voltar [Neste mesmo curso]](../README.MD)

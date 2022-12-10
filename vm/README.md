@@ -1,3 +1,4 @@
+### [Voltar [Neste mesmo curso]](../README.MD)
 # Criar uma máquina virtual 
 1. Entre no portal do Azure.
 
@@ -46,3 +47,5 @@ az vm extension set \
 
 Comandos para o apt instalar o nginx no ubuntu e definir o diretorio web do apache
 ![vmlinux3](07vmlinux.png)
+
+### [Voltar [Neste mesmo curso]](../README.MD)

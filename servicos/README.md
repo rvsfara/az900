@@ -1,3 +1,4 @@
+### [Voltar [Neste mesmo curso]](../README.MD)
 # Serviço de aplicativo do Azure
 O Serviço de Aplicativo permite que você crie e hospede aplicativos Web, trabalhos em segundo plano, back-ends de dispositivos móveis e APIs RESTful na linguagem de programação de sua escolha sem gerenciar a infraestrutura. Ele oferece dimensionamento automático e alta disponibilidade. O Serviço de Aplicativo é compatível com o Windows e o Linux. Ele permite implantações automatizadas do GitHub, Azure DevOps ou qualquer repositório Git para dar suporte a um modelo de implantação contínua.
 
@@ -40,3 +41,5 @@ Use o recurso Aplicativos Móveis do Serviço de Aplicativo para criar rapidamen
 4. Executar a lógica personalizada de back-end no C# ou Node.js.
 
 No lado do aplicativo móvel, há suporte do SDK para aplicativos nativos para iOS, Android, Xamarin e React. 
+
+### [Voltar [Neste mesmo curso]](../README.MD)

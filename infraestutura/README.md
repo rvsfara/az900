@@ -1,3 +1,4 @@
+### [Voltar [Neste mesmo curso]](../README.MD)
 # Infraestrura
  
 Infraestrutura física
@@ -28,3 +29,5 @@ Leste da China, Norte da China, entre outros: essas regiões estão disponíveis
 ## Recursos e grupos de recursos do Azure
 Um recurso é o bloco de construção básico do Azure. Qualquer coisa que você criar, provisionar, implantar etc. é um recurso. VMs (máquinas virtuais), redes virtuais, bancos de dados, serviços cognitivos etc. são todos considerados recursos no Azure.
 ![recursos](05recursos.png)
+
+### [Voltar [Neste mesmo curso]](../README.MD)

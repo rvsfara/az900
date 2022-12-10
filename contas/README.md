@@ -1,3 +1,4 @@
+### [Voltar [Neste mesmo curso]](../README.MD)
 # Introdução a contas do Azure
 Para criar e usar os serviços do Azure, você precisa de uma assinatura do Azure. 
 ![contas](01contas.png)
@@ -15,6 +16,7 @@ Limite de controle de acesso: O Azure aplica políticas de gerenciamento de aces
 É possível compilar uma estrutura flexível de grupos de gerenciamento e assinaturas para organizar seus recursos em uma hierarquia para políticas unificadas e gerenciamento de acesso. O diagrama a seguir mostra um exemplo de criação de uma hierarquia de governança usando grupos de gerenciamento.
 ![grupo](03grupo.png)
 
+### [Voltar [Neste mesmo curso]](../README.MD)
 
 
 
